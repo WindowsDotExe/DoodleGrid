@@ -1,3 +1,4 @@
+<!-- main content -->
 <div align="center">
 <a href="https://DoodleGrid.io/"> <img src="assets/logo-rounded.png" width="200"> </a>
 <h1><strong>DoodleGrid</strong></h1>
